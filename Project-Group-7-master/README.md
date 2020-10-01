@@ -1,4 +1,4 @@
-# Project-Group-7
+# Project-Group-7: Designed with Johnny Sun and Derian Lemus
 CMPE 137 Spartan Drive
 Build using UIkit and Firebase
 Login, Sign in, Logout has been completed. Other pages have also been made but not finalized
